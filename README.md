@@ -67,6 +67,7 @@ Inner Class:
 ReceiveMessages runs on a background thread to constantly read and display messages from the server.
 
 ⚙️ Technology Used
+
 Tool	Purpose
 Java Sockets	For TCP/IP communication
 Java Threads	To allow multiple clients concurrently
