@@ -13,7 +13,8 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 
-🧠 *Overview*
+🧠 Overview
+
 This Java application allows multiple clients to connect and chat with each other through a central server. The server uses multithreading to handle multiple users concurrently, and the clients can send and receive messages in real time.
 
 🧱 Components Explained
